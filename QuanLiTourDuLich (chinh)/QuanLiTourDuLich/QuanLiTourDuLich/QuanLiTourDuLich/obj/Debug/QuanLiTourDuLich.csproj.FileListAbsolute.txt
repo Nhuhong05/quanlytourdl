@@ -1,0 +1,12 @@
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe.config
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.pdb
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_LOGIN.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.Properties.Resources.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.exe
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.pdb
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_MainPage.resources

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{077EDF0D-3309-4CC1-974F-4FAD4C69230E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLiTourDuLich</RootNamespace>
+    <AssemblyName>QuanLiTourDuLich</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connectdata.cs" />
+    <Compile Include="DiemDi.cs" />
+    <Compile Include="Diemdulich.cs" />
+    <Compile Include="fr_HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_HoaDon.Designer.cs">
+      <DependentUpon>fr_HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_LOGIN.Designer.cs">
+      <DependentUpon>fr_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_MainPage.Designer.cs">
+      <DependentUpon>fr_MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_QuanLiDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_QuanLiDichVu.Designer.cs">
+      <DependentUpon>fr_QuanLiDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_QuanLiHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_QuanLiHoaDon.Designer.cs">
+      <DependentUpon>fr_QuanLiHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_QuanLiKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_QuanLiKhachHang.Designer.cs">
+      <DependentUpon>fr_QuanLiKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_QuanLiNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_QuanLiNhanVien.Designer.cs">
+      <DependentUpon>fr_QuanLiNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_QuanLiTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_QuanLiTour.Designer.cs">
+      <DependentUpon>fr_QuanLiTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_Tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_Tour.Designer.cs">
+      <DependentUpon>fr_Tour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_XemChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_XemChiTietHoaDon.Designer.cs">
+      <DependentUpon>fr_XemChiTietHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HashHelper.cs" />
+    <Compile Include="HoaDon.cs" />
+    <Compile Include="Loaitour.cs" />
+    <Compile Include="PhuongTien.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLKhachHang.cs" />
+    <Compile Include="QLTour.cs" />
+    <Compile Include="QuanLiNV.cs" />
+    <Compile Include="Thanhvien.cs" />
+    <Compile Include="trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trangchu.Designer.cs">
+      <DependentUpon>trangchu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fr_HoaDon.resx">
+      <DependentUpon>fr_HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_LOGIN.resx">
+      <DependentUpon>fr_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_MainPage.resx">
+      <DependentUpon>fr_MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_QuanLiDichVu.resx">
+      <DependentUpon>fr_QuanLiDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_QuanLiHoaDon.resx">
+      <DependentUpon>fr_QuanLiHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_QuanLiKhachHang.resx">
+      <DependentUpon>fr_QuanLiKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_QuanLiNhanVien.resx">
+      <DependentUpon>fr_QuanLiNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_QuanLiTour.resx">
+      <DependentUpon>fr_QuanLiTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_Tour.resx">
+      <DependentUpon>fr_Tour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_XemChiTietHoaDon.resx">
+      <DependentUpon>fr_XemChiTietHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="trangchu.resx">
+      <DependentUpon>trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelope2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appointment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tour-guide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destination.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consumer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teamwork.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poster.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

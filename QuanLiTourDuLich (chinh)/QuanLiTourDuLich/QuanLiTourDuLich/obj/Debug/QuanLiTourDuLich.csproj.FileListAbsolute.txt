@@ -1,0 +1,81 @@
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe.config
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.pdb
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_LOGIN.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.Properties.Resources.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.exe
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.pdb
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_MainPage.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiDichVu.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiHoaDon.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiKhachHang.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiNhanVien.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiTour.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_Tour.resources
+C:\Users\harry\source\repos\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_XemChiTietHoaDon.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe.config
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.pdb
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.AssemblyReference.cache
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.SuggestedBindingRedirects.cache
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_HoaDon.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_LOGIN.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_MainPage.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiDichVu.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiHoaDon.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiKhachHang.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiNhanVien.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiTour.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_Tour.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_XemChiTietHoaDon.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.Properties.Resources.resources
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.GenerateResource.cache
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.CoreCompileInputs.cache
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.exe
+D:\workspace\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.pdb
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.AssemblyReference.cache
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.SuggestedBindingRedirects.cache
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_HoaDon.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_LOGIN.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_MainPage.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiDichVu.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiHoaDon.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiKhachHang.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiNhanVien.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiTour.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_Tour.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_XemChiTietHoaDon.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.Properties.Resources.resources
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.GenerateResource.cache
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.CoreCompileInputs.cache
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.exe
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.pdb
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe.config
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.pdb
+D:\workspace\QuanLiTourDuLich (xong s⌡ s⌡)\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.trangchu.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe.config
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.exe
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\bin\Debug\QuanLiTourDuLich.pdb
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.AssemblyReference.cache
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.SuggestedBindingRedirects.cache
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_HoaDon.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_LOGIN.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_MainPage.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiDichVu.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiHoaDon.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiKhachHang.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiNhanVien.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_QuanLiTour.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_Tour.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.fr_XemChiTietHoaDon.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.Properties.Resources.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.trangchu.resources
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.GenerateResource.cache
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.csproj.CoreCompileInputs.cache
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.exe
+D:\workspace\vivutravel\QuanLiTourDuLich (chinh)\QuanLiTourDuLich\QuanLiTourDuLich\obj\Debug\QuanLiTourDuLich.pdb
